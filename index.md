@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a fourth year Ph.D. 
+I am a fourth year Ph.D. candidate in Ocean Sciences at UCSC advised by Dr. Pratigya Polissar and Dr. Heather Savage. I'm using novel non-targeted geolipidomics and machine learning approaches to generate a complete view of the chemical changes associated with seismic slip that will allow us to consider the size and timing of earthquakes. 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
+- **Non-targeted Analysis:** geolipidomics, gas chromatography mass-spectrometry, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News

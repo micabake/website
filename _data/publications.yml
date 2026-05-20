@@ -1,7 +1,7 @@
 main:
 
   - title: Geolipidomics: Non-targeted analysis of rapidly heated geologic samples with gas-chromatography-mass spectrometry.
-    authors: Miranda C. Baker, Heather M. Savage, Pratigya J. Polissar, <strong> Miranda C. Baker*</strong> (*Corresponding author)
+    authors: Miranda C. Baker, Heather M. Savage, Pratigya J. Polissar, <strong> Miranda C. Baker* (*Corresponding author)
     #conference_short: MICCAI
     #conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: hhttps://github.com/micabake/Geolipidomics-WDS-RHE

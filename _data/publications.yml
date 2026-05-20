@@ -2,19 +2,42 @@ main:
 
   - title: "Geolipidomics: Non-targeted analysis of rapidly heated geologic samples with gas-chromatography-mass spectrometry."
     authors: <strong>Miranda C. Baker</strong>, Heather M. Savage, Pratigya J. Polissar
-    #conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    conference: Journal of Geophysical Research: Machine Learning and Computation <strong>(e2025JH000890)</strong>, 2026.
     pdf: hhttps://github.com/micabake/Geolipidomics-WDS-RHE
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/geolipidomics_fig.png
     #notes: Early Accept
 
   - title: Water-column environmental variables and accompanying discrete CTD measurements collected offshore the U.S. Mid- and South Atlantic (ver. 2.0, July 2022)
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    authors: <strong>Miranda C. Baker</strong>, Nancy G. Prouty
+    #conference_short: CVPR
+    conference: U.S. Geological Survey data release, 2022.
+    pdf: https://doi.org/10.5066/P9V7ODDR
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    #image: ./assets/img/teaser_example.png
+
+  - title: CTD (Conductivity Temperature Depth) data collected October-November 2019 offshore of California and Oregon
+    authors: Nancy G. Prouty, <strong>Miranda C. Baker</strong>
+    #conference_short: CVPR
+    conference: U.S. Geological Survey data release, 2022.
+    pdf: https://doi.org/10.5066/P99MJ096
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    #image: ./assets/img/teaser_example.png
+
+
+  - title: Degradation of Oil by Fungi Isolated from Gulf of Mexico Beaches
+    authors: Rachel L. Simister, Carolyn M. Poutasse, Alana M. Thurston, Jennifer L. Reeve, <strong>Miranda C. Baker</strong>, Helen K. White
+    #conference_short: CVPR
+    conference: Marine Pollution Bulletin, 2015.
+    pdf: https://doi.org/10.1016/j.marpolbul.2015.08.029
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    #image: ./assets/img/teaser_example.png

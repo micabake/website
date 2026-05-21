@@ -9,12 +9,12 @@ I am a fourth year Ph.D. candidate in Ocean Sciences at UCSC advised by Dr. Prat
 ## Research Interests
 
 - **Non-targeted Analysis:** geolipidomics, gas chromatography mass-spectrometry,  
-- **Machine Learning:** feature annotation, molecular networking, In Silico spectra libraries
-- **Fault heating:** frictional heating, thermal maturity indices 
+- **Machine Learning:** feature annotation, molecular networking, In silico spectra libraries
+- **Fault heating:** frictional heating, thermal maturity indices kinetics 
 
 ## News
-- **[April 2026]** Presented at Northern California SETAC!
-- **[April 2026]** Invited to talk at Best Practices for Non-targeted (BP4NTA) monthly webniar!
+- **[Apr. 2026]** Presented at Northern California SETAC!
+- **[Apr. 2026]** Invited to talk at Best Practices for Non-targeted (BP4NTA) monthly webniar!
 - **[Oct. 2026]** Presented at at International Conference on Non-targeted Screening.
 - **[Oct. 2026]** Shared frictional biomarker heating results from the Japan Trench at 405 IODP Post-cruise meeting in Sendai, Japan. 
 - **[Sept. 2026]** Gave an oral presentation at International Meeting of Organic Geochemists in Porto, Portugal.

@@ -5,7 +5,7 @@ main:
     conference: "Journal of Geophysical Research: Machine Learning and Computation <strong>(e2025JH000890)</strong>, 2026."
     pdf: hhttps://github.com/micabake/Geolipidomics-WDS-RHE
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/geolipidomics_fig.png
+    image: ./assets/img/geolipidomics_fig2.png
     #notes: Early Accept
 
   - title: Water-column environmental variables and accompanying discrete CTD measurements collected offshore the U.S. Mid- and South Atlantic (ver. 2.0, July 2022)
@@ -20,6 +20,17 @@ main:
     #image: ./assets/img/teaser_example.png
 
   - title: CTD (Conductivity Temperature Depth) data collected October-November 2019 offshore of California and Oregon
+    authors: Nancy G. Prouty, <strong>Miranda C. Baker</strong>
+    #conference_short: CVPR
+    conference: U.S. Geological Survey data release, 2022.
+    pdf: https://doi.org/10.5066/P99MJ096
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    #image: ./assets/img/teaser_example.png
+
+  - title: CTD profiles and discrete water-column measurements collected off California and Oregon during NOAA cruise RL-19-05 (USGS field activity 2019-672-FA) from October to November 2019,
     authors: Nancy G. Prouty, <strong>Miranda C. Baker</strong>
     #conference_short: CVPR
     conference: U.S. Geological Survey data release, 2022.

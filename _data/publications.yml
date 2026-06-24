@@ -3,7 +3,7 @@ main:
   - title: "Geolipidomics: Non-targeted analysis of rapidly heated geologic samples with gas-chromatography-mass spectrometry."
     authors: <strong>Miranda C. Baker</strong>, Heather M. Savage, Pratigya J. Polissar
     conference: "Journal of Geophysical Research: Machine Learning and Computation <strong>(e2025JH000890)</strong>, 2026."
-    pdf: hhttps://github.com/micabake/Geolipidomics-WDS-RHE
+    pdf: https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2025JH000890
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/geolipidomics_fig2.png
     #notes: Early Accept
